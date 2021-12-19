@@ -1,0 +1,18 @@
+#+title: Course schedule
+
+* [2022-01-17 Mon] NO CLASS - MLK Day
+
+* [2022-01-19 Wed] Introduction [[./00-introduction/introduction.org]]
+* [2022-01-24 Mon] Review of numpy [[./01-numpy/numpy.org]]
+* [2022-01-26 Wed] Introduction to pandas [[./02-pandas-intro/pandas-intro.org]]
+* [2022-01-31 Mon] Intermediate pandas [[./03-intermediate-pandas/intermediate-pandas.org]]
+
+* [2022-02-02 Wed] pandas database [[./04-pandas-database/pandas-database.org]]
+* [2022-02-07 Mon] Linear regression [[./05-linear-regression/linear-regression.org]]
+* [2022-02-09 Wed] Intermediate sklearn [[./06-intermediate-sklearn/intermediate-sklearn.org]]
+* [2022-02-14 Mon] interactive project day (Happy Valentine's Day!)
+* [2022-02-16 Wed] nonlinear sklearn [[./07-nonlinear-sklearn/nonlinear-sklearn.org]]
+* [2022-02-21 Mon] random forests [[./08-random-forests/random-forests.org]]
+* [2022-02-23 Wed] presentations 
+* [2022-02-28 Mon] presentations
+* [2022-03-02 Wed] presentations
